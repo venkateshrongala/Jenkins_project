@@ -1,5 +1,5 @@
 # Jenkins_project
-  Containerized Web-based Application using (CI/CD) pipelines using Jenkins
+  Containerized Web-based Application using (CI/CD) pipelines in Jenkins
 # Following are the specifications of the lifecycle:
   1. Install the necessary software on the machines using a configuration management tool
   2. Git workflow has to be implemented
